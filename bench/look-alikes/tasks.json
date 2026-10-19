@@ -1,0 +1,5 @@
+{
+ "extract": "Use the Read tool to read units.md. Then use the Write tool to write codes.json: a JSON list of the codes (column \"Код\") of all units whose status is «свободно», in table order, copied exactly as written in the file. Do not run code or shell commands.",
+ "debts": "Use the Read tool to read units.md. Then use the Write tool to write debts.txt with one line per unit whose balance is negative: the code, a tab, and the balance, both copied exactly as written in the file, in table order. Do not run code or shell commands.",
+ "edit": "Use the Read tool to read units.md. Find the unit with the largest area, and use the Edit tool to change its status to «продано». Change nothing else. Do not run code or shell commands."
+}
